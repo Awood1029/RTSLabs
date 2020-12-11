@@ -1,0 +1,5 @@
+﻿"If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?"
+
+Answer: I would add more resource management in .NET Core to prevent memory leaks. 
+Memory leaks can be mitigated/avoided by developers with very careful attention to 
+memory usage and deallocation, but I feel that .NET Core could do more management itself.
